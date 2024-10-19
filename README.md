@@ -19,7 +19,7 @@ This project is a simple IP Address Calculator built using Python and Tkinter. I
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - Tkinter (included with Python standard library)
 - ipaddress (included with Python standard library)
 
