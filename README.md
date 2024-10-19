@@ -11,11 +11,11 @@ This project is a simple IP Address Calculator built using Python and Tkinter. I
   - Broadcast Address
   - Available Hosts
     
-## Images
-  !(img/img_1.png)
-  !(img/img_2.png)
-  !(img/img_3.png)
-  !(img/img_4.png)
+## Screenshots
+  ![Screenshot 1](img/img_1.png)
+  ![Screenshot 2](img/img_2.png)
+  ![Screenshot 3](img/img_3.png)
+  ![Screenshot 4](img/img_4.png)
 
 ## Requirements
 
