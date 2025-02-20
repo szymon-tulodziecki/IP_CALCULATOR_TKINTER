@@ -20,8 +20,8 @@ A simple and intuitive IP address calculator built with Tkinter in Python. Enter
 
 Behold the IP Address Calculator in action:
 
-  ![Screenshot 1](img/img_1.png) ![Screenshot 2](img/img_2.png)
-  ![Screenshot 3](img/img_3.png) ![Screenshot 4](img/img_4.png)
+![Screenshot 1](img/img_1.png) ![Screenshot 2](img/img_2.png)
+![Screenshot 3](img/img_3.png) ![Screenshot 4](img/img_4.png)
 
 ## ⚙️ Requirements
 
