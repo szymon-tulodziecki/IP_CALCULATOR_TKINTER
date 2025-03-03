@@ -68,7 +68,6 @@ Behold the IP Address Calculator in action:
 ## 🗂️ File Structure
 
 *   `ip_calculator_tkinter.py`: The main Python script containing the Tkinter GUI and IP calculation logic. 🐍
-*   `requirements.txt`: *(Optional)*  A list of Python packages required to run the application (may be empty if no external dependencies are needed). 📄
 *   `LICENSE`: The MIT license file. 📜
 *   `README.md`: This file, containing information about the project. 📝
 
